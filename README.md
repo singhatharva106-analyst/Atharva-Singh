@@ -38,6 +38,7 @@ Executing a structured, multi-stage technical roadmap to engineer end-to-end dat
 
 ### 🚀 Featured GitHub Projects
 * 🎬 **[Netflix Content & Uncertainty Analytics Pipeline](https://github.com/singhatharva106-analyst/fearful-monster):** Engineered a dual-layer Python data pipeline featuring a **4D multi-dimensional scatter plot** and an **Advanced 95% Confidence Interval Uncertainty Bar Chart** with `RdBu_r` probability color mapping against global runtime benchmarks.
+* * 📈 **[BSE SENSEX Quantitative Risk & Volatility Engine](https://github.com/singhatharva106-analyst/sensex-stock-analytics):** Engineered a 24-year quantitative market risk analytics pipeline in Python featuring 50D/200D moving average trends, annualized rolling volatility regimes, 95% Historical Value at Risk (VaR), and Maximum Drawdown analysis.
 
 ---
 
